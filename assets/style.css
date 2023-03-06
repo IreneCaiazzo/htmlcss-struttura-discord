@@ -5,10 +5,18 @@
 }
 
 header{
+    background-color: #b1cee8;
+}
+
+.container{
     display: flex;
+    margin: 0 auto;;
+    max-width: 1000px;
+}
+
+header .container{
     justify-content: center;
     flex: 1 1 auto;
-    max-width: 1000px;
 }
 
 .header{
