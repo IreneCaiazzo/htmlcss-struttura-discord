@@ -50,3 +50,17 @@ header .container{
     background-color: rgb(236, 85, 135);
     border: 1px dashed black; 
 }
+
+.area-2{
+    width: 600px;
+    height: 400px;
+    background-color: rgb(30, 143, 242);
+    border: 1px dashed black; 
+}
+
+.area-3{
+    width: 400px;
+    height: 400px;
+    background-color: pink;
+    border: 1px dashed black; 
+}
