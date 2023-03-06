@@ -33,3 +33,20 @@ header .container{
 .center{
     width: 60%;
 }
+
+.section{
+    display: flex;
+    margin: 0 auto;
+    padding: 10px 0px;
+}
+
+.first{
+    background-color: #101096;
+}
+
+.area-1{
+    width: 800px;
+    height: 400px;
+    background-color: rgb(236, 85, 135);
+    border: 1px dashed black; 
+}
