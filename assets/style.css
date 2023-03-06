@@ -1,0 +1,27 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+header{
+    display: flex;
+    justify-content: center;
+    flex: 1 1 auto;
+    max-width: 1000px;
+}
+
+.header{
+    background-color: goldenrod;
+    text-align: center;
+    border: 1px dashed black;
+    padding: .7em;
+}
+
+.side{
+    width: 20%;
+}
+
+.center{
+    width: 60%;
+}
