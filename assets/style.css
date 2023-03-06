@@ -10,7 +10,7 @@ header{
 
 .container{
     display: flex;
-    margin: 0 auto;;
+    margin: 0 auto;
     max-width: 1000px;
 }
 
@@ -51,16 +51,34 @@ header .container{
     border: 1px dashed black; 
 }
 
-.area-2{
+.area-2, .area-6{
     width: 600px;
     height: 400px;
     background-color: rgb(30, 143, 242);
     border: 1px dashed black; 
 }
 
-.area-3{
+.area-3, .area-7{
     width: 400px;
     height: 400px;
     background-color: pink;
     border: 1px dashed black; 
+}
+
+.third{
+    background-color: lightgrey;
+}
+
+.area-4{
+    width: 400px;
+    height: 400px;
+    background-color: pink;
+    border: 1px dashed black; 
+}
+
+.area-5{
+    width: 600px;
+    height: 400px;
+    background-color:  rgb(30, 143, 242);
+    border: 1px dashed black;
 }
